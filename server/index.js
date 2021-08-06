@@ -28,7 +28,7 @@ massive(CONNECTION_STRING).then(db => {
     console.log('db connected')
 });
 
-
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 // ----------ENDPOINTS----------
 
 // AUTH

@@ -19,7 +19,6 @@ module.exports = {
   editProduct: (req, res) => {
     const { p_id } = req.params;
     let { name, p_image, price, p_type, available } = req.body;
-    // console.log(req.body, req.query)
     const db = req.app.get("db");
 
     db.admin.edit_products
