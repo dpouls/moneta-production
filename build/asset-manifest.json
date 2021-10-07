@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ce3ecf7.chunk.css",
+    "main.js": "/static/js/main.6caf77b3.chunk.js",
+    "main.js.map": "/static/js/main.6caf77b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79a9c42d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79a9c42d.js.map",
+    "static/css/2.366c97c1.chunk.css": "/static/css/2.366c97c1.chunk.css",
+    "static/js/2.6ac61a9b.chunk.js": "/static/js/2.6ac61a9b.chunk.js",
+    "static/js/2.6ac61a9b.chunk.js.map": "/static/js/2.6ac61a9b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.366c97c1.chunk.css.map": "/static/css/2.366c97c1.chunk.css.map",
+    "static/css/main.6ce3ecf7.chunk.css.map": "/static/css/main.6ce3ecf7.chunk.css.map",
+    "static/js/2.6ac61a9b.chunk.js.LICENSE.txt": "/static/js/2.6ac61a9b.chunk.js.LICENSE.txt",
+    "static/media/RobotoMono-Regular.47313723.ttf": "/static/media/RobotoMono-Regular.47313723.ttf",
+    "static/media/simplelogo.7d7d6adf.png": "/static/media/simplelogo.7d7d6adf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79a9c42d.js",
+    "static/css/2.366c97c1.chunk.css",
+    "static/js/2.6ac61a9b.chunk.js",
+    "static/css/main.6ce3ecf7.chunk.css",
+    "static/js/main.6caf77b3.chunk.js"
+  ]
+}
